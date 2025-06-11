@@ -5,14 +5,6 @@ Dataset ini merupakan hasil kompilasi pengujian Google Dorking pada 25 domain **
 - **Hasil query** untuk setiap kata kunci (`filetype:pdf`, `inurl:robots.txt`, `inurl:alamat`, dsb.) dalam tabel ringkas.
 - **Metadata**: skor IMDI per provinsi, tanggal dan metode pengujian, reliabilitas (Cohen’s κ).
 
-## Struktur Repository
-/
-├── data/\
-│ ├── google-dorking-results.xlsx
-│ └── google-dorking-results.csv
-└── README.md
-
-
 ## Cara Menggunakan
 1. Clone repo:
    ```bash
