@@ -7,7 +7,7 @@ Dataset ini merupakan hasil kompilasi pengujian Google Dorking pada 25 domain **
 
 ## Struktur Repository
 /
-├── data/
+├── data/\
 │ ├── google-dorking-results.xlsx
 │ └── google-dorking-results.csv
 └── README.md
